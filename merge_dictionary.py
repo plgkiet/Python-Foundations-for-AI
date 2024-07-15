@@ -12,3 +12,4 @@ print("Dictionary after merging: ", merged_dict)
 dict5 = {'a': 1, 'b': 2}
 dict6 = {'c': 3, 'd': 4}
 print("Dictionary after merging: ", dict5 | dict6)
+
