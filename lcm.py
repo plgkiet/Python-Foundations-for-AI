@@ -1,5 +1,5 @@
-num1 = input('Enter the number: ')
-num2 = input('Enter the number: ')
+num1 = int(input('Enter the first number: '))
+num2 = int(input('Enter the second number: '))
 
 def compute_lcm(x,y):
     if (x>y) :
