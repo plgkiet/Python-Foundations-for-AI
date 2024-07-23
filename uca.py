@@ -61,4 +61,6 @@ if __name__ == '__main__':
     goal = [6]
 
     answer = uniform_cost_search(g, goal, 0)
-    print("Chi phí nhỏ nhất từ 0 đến 6 là =", answer[0])
+    print("The minimum cost from 0 to 6 is =", answer[0])
+
+
