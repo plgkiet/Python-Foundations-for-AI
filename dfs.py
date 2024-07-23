@@ -37,5 +37,5 @@ graph = {
 }
 
 print("DFS Đệ Quy:")
-# dfs_recursive(graph, 'A')
-dfs_iterative(graph, 'A')
+dfs_recursive(graph, 'A')
+# dfs_iterative(graph, 'A')
